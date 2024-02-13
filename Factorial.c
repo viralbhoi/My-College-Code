@@ -1,4 +1,4 @@
-/* calculator*/
+/* Find factorial of given no.*/
 
 #include<stdio.h>
 
