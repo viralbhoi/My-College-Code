@@ -16,7 +16,7 @@ int main()
 
     //with inbuilt function;
     int length=strlen(str);
-    printf("With inbuilt function : %d.\n",i);
+    printf("With inbuilt function : %d.\n",length);
 
     return 0;
 
