@@ -9,6 +9,7 @@ int main()
     scanf("%d",&n);
     if(n<0){
         printf("n must be positive integer");
+        return 0;
     }
     printf("The sum of first %d natural number is %d",n,sumOfN(n));
 
